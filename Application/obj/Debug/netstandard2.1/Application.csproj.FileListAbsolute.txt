@@ -1,0 +1,13 @@
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\josei\source\repos\React+NET\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
